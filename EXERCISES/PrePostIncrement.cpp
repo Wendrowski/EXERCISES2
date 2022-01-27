@@ -10,10 +10,8 @@ int main()
 	num++;               // increase by 1 (post-increment)
 	cout << " After post increment by 1 the number is : " << num << endl;
 	++num;               // increase by 1 (pre-increment)
-	cout << " After pre increment by 1 the number is : " << num << endl;
-	num = num + 1;  // num is now increased by 1.
-	cout << " After increasing by 1 the number is : " << num << endl; // 79
-	num--;               // decrease by 1 (post-decrement)
+	cout << " After pre incremenst by 1 the number is : " << num << endl;
+	num = num + 1;  // num is now increasadecrement)
 	cout << " After post decrement by 1 the number is : " << num << endl;
 	--num;               // decrease by 1 (pre-decrement)
 	cout << " After pre decrement by 1 the number is : " << num << endl;

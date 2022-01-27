@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="AngelThrough1.cpp" />
     <ClCompile Include="DataTypes.cpp" />
+    <ClCompile Include="FormattingOutput.cpp" />
     <ClCompile Include="PrePostIncrement.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="UpperLowerLimitsOfIntegers.cpp" />
