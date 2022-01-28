@@ -142,6 +142,7 @@
     <ClCompile Include="AngelThrough1.cpp" />
     <ClCompile Include="ArithmeticOps.cpp" />
     <ClCompile Include="ASCIIValues.cpp" />
+    <ClCompile Include="CircleArea.cpp" />
     <ClCompile Include="DataTypes.cpp" />
     <ClCompile Include="FormattingOutput.cpp" />
     <ClCompile Include="PrePostIncrement.cpp" />
