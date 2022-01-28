@@ -143,6 +143,7 @@
     <ClCompile Include="ArithmeticOps.cpp" />
     <ClCompile Include="ASCIIValues.cpp" />
     <ClCompile Include="CircleArea.cpp" />
+    <ClCompile Include="ConvertToLowerCase.cpp" />
     <ClCompile Include="DataTypes.cpp" />
     <ClCompile Include="DaysToYears.cpp" />
     <ClCompile Include="FormattingOutput.cpp" />
