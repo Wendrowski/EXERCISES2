@@ -42,5 +42,8 @@
     <ClCompile Include="ArithmeticOps.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ASCIIValues.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
