@@ -150,6 +150,7 @@
     <ClCompile Include="RectangleArea.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="SquareArea.cpp" />
+    <ClCompile Include="StringsConcat.cpp" />
     <ClCompile Include="SwapNums.cpp" />
     <ClCompile Include="UpperLowerLimitsOfIntegers.cpp" />
     <ClCompile Include="While.cpp" />
