@@ -159,6 +159,7 @@
     <ClCompile Include="SwapNums.cpp" />
     <ClCompile Include="UpperLowerLimitsOfIntegers.cpp" />
     <ClCompile Include="While.cpp" />
+    <ClCompile Include="WhileLoop.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
