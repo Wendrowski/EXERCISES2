@@ -69,5 +69,8 @@
     <ClCompile Include="MuObj.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CarClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
