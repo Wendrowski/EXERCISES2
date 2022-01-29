@@ -148,6 +148,7 @@
     <ClCompile Include="DataTypes.cpp" />
     <ClCompile Include="DaysToYears.cpp" />
     <ClCompile Include="DoWhileLoop.cpp" />
+    <ClCompile Include="ForLoop.cpp" />
     <ClCompile Include="FormattingOutput.cpp" />
     <ClCompile Include="Function.cpp" />
     <ClCompile Include="MuObj.cpp" />
