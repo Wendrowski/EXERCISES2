@@ -66,5 +66,8 @@
     <ClCompile Include="ConvertToLowerCase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MuObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

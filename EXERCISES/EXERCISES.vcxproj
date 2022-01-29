@@ -147,6 +147,7 @@
     <ClCompile Include="DataTypes.cpp" />
     <ClCompile Include="DaysToYears.cpp" />
     <ClCompile Include="FormattingOutput.cpp" />
+    <ClCompile Include="MuObj.cpp" />
     <ClCompile Include="PrePostIncrement.cpp" />
     <ClCompile Include="RectangleArea.cpp" />
     <ClCompile Include="Source.cpp" />
