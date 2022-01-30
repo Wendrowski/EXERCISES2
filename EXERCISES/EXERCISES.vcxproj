@@ -154,6 +154,7 @@
     <ClCompile Include="ForLoop.cpp" />
     <ClCompile Include="FormattingOutput.cpp" />
     <ClCompile Include="Function.cpp" />
+    <ClCompile Include="Inheritance.cpp" />
     <ClCompile Include="MuObj.cpp" />
     <ClCompile Include="PrePostIncrement.cpp" />
     <ClCompile Include="RectangleArea.cpp" />
