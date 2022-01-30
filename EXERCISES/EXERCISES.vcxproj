@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AccessSpecifier.cpp" />
     <ClCompile Include="AngelThrough1.cpp" />
     <ClCompile Include="ArithmeticOps.cpp" />
     <ClCompile Include="ASCIIValues.cpp" />
