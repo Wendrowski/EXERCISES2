@@ -144,6 +144,7 @@
     <ClCompile Include="ASCIIValues.cpp" />
     <ClCompile Include="CarClass.cpp" />
     <ClCompile Include="CircleArea.cpp" />
+    <ClCompile Include="Constructor.cpp" />
     <ClCompile Include="ConvertToLowerCase.cpp" />
     <ClCompile Include="DataTypes.cpp" />
     <ClCompile Include="DaysToYears.cpp" />
